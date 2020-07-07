@@ -6,10 +6,10 @@ As a beginner robotics hobbyist I wanted to find a begginer friendly project tha
 
 ### Materials 
 
-Cost   | Name 
------- | ---- 
+Cost   | Name | URL                                                                            |
+------ | ---- |----                                                                            |
 $12.00 | [TowerPro SG-5010 standard servo](https://www.adafruit.com/product/155)               |
-$5.95  | [TowerPro SG-92R Micro servo]https://www.amazon.com/dp/B07RMDNDK3/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B07RMDNDK3&pd_rd_w=ifi9y&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=4R2Zo&pf_rd_r=82HE2ZAYYDRVE1D3H2QW&pd_rd_r=9593cce8-0df1-47fa-84f7-f5a7a2e40367&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyM0hCVDdJWlAxU0QxJmVuY3J5cHRlZElkPUEwODUyNDczMjlSNzAzQlRMVFA2WSZlbmNyeXB0ZWRBZElkPUEwMjM4MDE2MVVSTzlCWlgySlozRCZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=                   |
+$5.95  | [TowerPro SG-92R Micro servo]                                                         |https://www.amazon.com/dp/B07RMDNDK3/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B07RMDNDK3&pd_rd_w=ifi9y&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=4R2Zo&pf_rd_r=82HE2ZAYYDRVE1D3H2QW&pd_rd_r=9593cce8-0df1-47fa-84f7-f5a7a2e40367&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyM0hCVDdJWlAxU0QxJmVuY3J5cHRlZElkPUEwODUyNDczMjlSNzAzQlRMVFA2WSZlbmNyeXB0ZWRBZElkPUEwMjM4MDE2MVVSTzlCWlgySlozRCZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU= 
 $19.95 | [Adafruit Feather 32u4](https://www.adafruit.com/products/2771)                       |
 $9.95  | [8-Channel PWM or Servo FeatherWing](https://www.adafruit.com/products/2928)          |
 $2.95  | [4 x AA Battery Holder with On/Off Switch](https://www.adafruit.com/products/830)     |
