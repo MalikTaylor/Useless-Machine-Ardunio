@@ -22,6 +22,25 @@ Total  | $70.23                                                                 
 
 I really like some of the Useless machines that have a wooden encolusre, but I have no expirence with wood working so I instead, opted to 3D print the enclosure for this version of the project. I have plans to create a wooden enclosure in the future and even include an internal power source.  
 
+### Print Settings
+Rafts:
+No
+
+Supports:
+No
+
+Nozzle Size:
+0.3mm
+
+Infill:
+20%
+
+Filament_material:
+PLA
+
+Notes:
+The door for the servo arm is printed as part of the cases lid, once printed there should be a noticable gap bewteen the lid and the door. If there is no gap then you're either printing too close the print bed or you need to change your starting layerheight. 
+
 
 ### Software
 
