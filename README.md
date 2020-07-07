@@ -17,7 +17,6 @@ $9.95  | [Lithium Ion Polymer Battery - 3.7v 1200mAh](https://www.adafruit.com/p
 $5.99  | [Wooden Recipe Box](http://www.michaels.com/artminds-wooden-recipe-box/10397769.html) | 
 $3.49  | [SPST Flat Lever Toggle Switch](https://www.radioshack.com/products/spst-6amp-lever)  | 
 Total  | $70.23                                                                                |
-$70.23 | Total
 
 ### Enclosure 
 
