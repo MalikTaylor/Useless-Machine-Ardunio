@@ -16,8 +16,9 @@ $2.95  | [4 x AA Battery Holder with On/Off Switch](https://www.adafruit.com/pro
 $9.95  | [Lithium Ion Polymer Battery - 3.7v 1200mAh](https://www.adafruit.com/products/258)   |
 $5.99  | [Wooden Recipe Box](http://www.michaels.com/artminds-wooden-recipe-box/10397769.html) | 
 $3.49  | [SPST Flat Lever Toggle Switch](https://www.radioshack.com/products/spst-6amp-lever)  | 
-
+Total  | $70.23                                                                                |
 $70.23 | Total
+
 ### Enclosure 
 
 I really like some of the Useless machines that have a wooden encolusre, but I have no expirence with wood working so I instead, opted to 3D print the enclosure for this version of the project. I have plans to create a wooden enclosure in the future and even include an internal power source.  
