@@ -11,7 +11,7 @@ Cost   | Name |
 $12.99 | [TowerPro SG-5010 standard servo](https://www.amazon.com/dp/B07KGQVDD1/ref=sspa_dk_detail_6?psc=1&pd_rd_i=B07KGQVDD1&pd_rd_w=qwyLT&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=NRhVq&pf_rd_r=0GX6T3Y3VFTM174MQHTQ&pd_rd_r=5a351d8a-d322-48f1-891c-2e87f5c6d8b8&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyR0VMR1QyUEZXTkVBJmVuY3J5cHRlZElkPUEwMzg0ODExMUdBRkk3SUwyUlpRRiZlbmNyeXB0ZWRBZElkPUEwNjk2MjIxM0xVUjdOWlhKUklOTSZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)|
 $5.39  | [Togggle Switch](https://www.amazon.com/gp/product/B079JBF815/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)|
 $13.99  | [Arduino Nano](https://www.amazon.com/gp/product/B07G99NNXL/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)|
-Total  | $36.97|
+Total  | $32.37|
 
 ### Enclosure 
 
