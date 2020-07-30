@@ -1,10 +1,11 @@
-# Useless-Machine-Ardunio <a href="https://www.instagram.com/the.red.team4">Instagram</a>
- - <a href="https://www.youtube.com/channel/UCQdi3MDHHMm7u3cMkEY329Q">YouTube</a>
- - <a href="https://208.68.37.54">Website</a>
+# Useless-Machine-Ardunio 
  
 <p align="center">
   <img width="450" height="300" src="https://github.com/MalikTaylor/Useless-Machine-Ardunio/blob/master/Images/Useless%20Machine%206-30-2020.JPG">
   <br>
+ <a href="https://www.instagram.com/the.red.team4">Instagram</a>
+ - <a href="https://www.youtube.com/channel/UCQdi3MDHHMm7u3cMkEY329Q">YouTube</a>
+ - <a href="https://208.68.37.54">Website</a>
   <br>
   <br>
 </p>
