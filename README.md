@@ -45,6 +45,11 @@ The door for the servo arm is printed as part of the case's lid, once printed th
 ### Software
 
 The sketch is fairly simple which selects a random servo animation to play when the user flips the toggle switch. This sketch is not perfect, as the Useless machine will sometimes repeat a previously selected animation multiple times.
+### Schematic
+
+<p align="center">
+  <img width="450" height="300" src="https://github.com/MalikTaylor/Useless-Machine-Ardunio/blob/master/Schematic/Schematic.png">
+</p>
 
 <br>
 <a href="https://personal-website-c1fb5.web.app/">Website</a>
