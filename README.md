@@ -48,7 +48,7 @@ The sketch is fairly simple which selects a random servo animation to play when 
 ### Schematic
 
 <p align="center">
-  <img width="450" height="500" src="https://github.com/MalikTaylor/Useless-Machine-Ardunio/blob/master/Schematic/Schematic.png">
+  <img width="600" height="500" src="https://github.com/MalikTaylor/Useless-Machine-Ardunio/blob/master/Schematic/Schematic.png">
 </p>
 
 <br>
