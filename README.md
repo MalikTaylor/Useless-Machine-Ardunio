@@ -46,6 +46,9 @@ The door for the servo arm is printed as part of the case's lid, once printed th
 
 The sketch is fairly simple which selects a random servo animation to play when the user flips the toggle switch. This sketch is not perfect, as the Useless machine will sometimes repeat a previously selected animation multiple times.
 
+<br>
 <a href="https://www.instagram.com/the.red.team4">Instagram</a>
  - <a href="https://www.youtube.com/channel/UCQdi3MDHHMm7u3cMkEY329Q">YouTube</a>
  - <a href="https://208.68.37.54">Website</a>
+ <br>
+ <br>
