@@ -1,4 +1,13 @@
-# Useless-Machine-Ardunio
+# Useless-Machine-Ardunio <a href="https://www.instagram.com/the.red.team4">Instagram</a>
+ - <a href="https://www.youtube.com/channel/UCQdi3MDHHMm7u3cMkEY329Q">YouTube</a>
+ - <a href="https://208.68.37.54">Website</a>
+ 
+<p align="center">
+  <img width="450" height="300" src="https://github.com/MalikTaylor/Useless-Machine-Ardunio/blob/master/Images/Useless%20Machine%206-30-2020.JPG">
+  <br>
+  <br>
+  <br>
+</p>
 ### About
 As a beginner robotics hobbyist, I wanted to find a beginner-friendly project that would use the Arduino microcontroller as the brains of my project. While browsing the internet I came across the Useless machine which is a device that serves no real purpose. However, I noticed that all these machines would repeat the same action every time and I wanted to change that, so I set out to build my own that cycles through random animations. 
 
