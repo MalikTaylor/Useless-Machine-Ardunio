@@ -3,11 +3,6 @@
 <p align="center">
   <img width="450" height="300" src="https://github.com/MalikTaylor/Useless-Machine-Ardunio/blob/master/Images/Useless%20Machine%206-30-2020.JPG">
   <br>
- <a href="https://www.instagram.com/the.red.team4">Instagram</a>
- - <a href="https://www.youtube.com/channel/UCQdi3MDHHMm7u3cMkEY329Q">YouTube</a>
- - <a href="https://208.68.37.54">Website</a>
-  <br>
-  <br>
 </p>
 ### About
 As a beginner robotics hobbyist, I wanted to find a beginner-friendly project that would use the Arduino microcontroller as the brains of my project. While browsing the internet I came across the Useless machine which is a device that serves no real purpose. However, I noticed that all these machines would repeat the same action every time and I wanted to change that, so I set out to build my own that cycles through random animations. 
@@ -50,3 +45,7 @@ The door for the servo arm is printed as part of the case's lid, once printed th
 ### Software
 
 The sketch is fairly simple which selects a random servo animation to play when the user flips the toggle switch. This sketch is not perfect, as the Useless machine will sometimes repeat a previously selected animation multiple times.
+
+<a href="https://www.instagram.com/the.red.team4">Instagram</a>
+ - <a href="https://www.youtube.com/channel/UCQdi3MDHHMm7u3cMkEY329Q">YouTube</a>
+ - <a href="https://208.68.37.54">Website</a>
