@@ -1,7 +1,7 @@
 # Useless-Machine-Ardunio 
  
 <p align="center">
-  <img width="450" height="300" src="https://github.com/MalikTaylor/Useless-Machine-Ardunio/blob/master/Images/Useless%20Machine%206-30-2020.JPG">
+  <img width="450" height="300" src="https://github.com/MalikTaylor/Useless-Machine-Ardunio/blob/master/Images/Useless%20Machine%208-1-2020.JPG">
 </p>
 
 ### About
